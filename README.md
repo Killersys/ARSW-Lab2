@@ -15,21 +15,21 @@ Creación, puesta en marcha y coordinación de hilos.
 
 Revisión a través de Administrador de Tareas
 
-![](img/CapturaTaskM.png)
+![](img/CapturaTaskM.PNG)
 
 Revisión a través de JVisualVM
 
-![](img/CapturaJVisual.png)
+![](img/CapturaJVisual.PNG)
 
 2. Modifique el programa para que, en lugar de resolver el problema con un solo hilo, lo haga con tres, donde cada uno de éstos hará la tarcera parte del problema original. Verifique nuevamente el funcionamiento, y nuevamente revise el uso de los núcleos del equipo.
 
 Revisión a través de Administrador de Tareas
 
-![](img/CapturaTaskM2.png)
+![](img/CapturaTaskM2.PNG)
 
 Revisión a través de JVisualVM
 
-![](img/CapturaJVisual2.png)
+![](img/CapturaJVisual2.PNG)
 
 
 
